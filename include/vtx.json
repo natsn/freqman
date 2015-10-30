@@ -1,74 +1,495 @@
-}
-	"id": 1,
+{
 	"brand": "Lumenier",
-	"model": "TX5G6",
+	"model": "TX5G6 600mw",
 	"wattage": "600",
 	"channels": "32",
 	"bands": "FEAR"
 }
 
-}
-	"id": 2,
+{
 	"brand": "Lumenier",
-	"model": "TX5G25"
+	"model": "TX5G25 25mw",
 	"wattage": "25",
 	"channels": "32",
 	"bands": "FEAR"
 }
 
-}
-	"id": 3,
+{
 	"brand": "Lumenier",
-	"model": "TX5G25C",
+	"model": "TX5G25C 25mw",
 	"wattage": "25",
 	"channels": "32",
 	"bands": "FEAR"
 }
 
-}
-	"id": 4,
+{
 	"brand": "Lumenier",
-	"model": "TX5G2R",
+	"model": "TX5G2R 200mw",
 	"wattage": "200",
 	"channels": "32",
 	"bands": "FEAR"
 }
 
-}
-	"id": 5,
+{
 	"brand": "Lumenier",
-	"model": "TX5G6R",
+	"model": "TX5G6R 600mw",
 	"wattage": "600",
 	"channels": "32",
 	"bands": "FEAR"
 }
 
-}
-	"id": 6,
+{
 	"brand": "Team BlackSheep",
-	"model": "Unify 5G8",
+	"model": "Unify 5G8 200mw",
 	"wattage": "200",
 	"channels": "32",
 	"bands": "FEAB"
 }
 
-}
-	"id": 7,
+{
 	"brand": "Team BlackSheep",
-	"model": "Unify 5G8R",
+	"model": "Unify 5G8R 200mw",
 	"wattage": "200",
 	"channels": "32",
 	"bands": "FEAR"
 }
 
-}
-	"id": 8,
+{
 	"brand": "Team BlackSheep",
-	"model": "BOSS",
+	"model": "BOSS 500mw",
 	"wattage": "500",
 	"channels": "8",
 	"bands": "A"
 }
 
+{
+	"brand": "FatShark",
+	"model": "5G8 250mw",
+	"wattage": "250",
+	"channels": "7",
+	"bands": "F"
+}
 
+{
+	"brand": "ImmersionRC",
+	"model": "Raceband 200mw",
+	"wattage": "200",
+	"channels": "15",
+	"bands": "FR"
+}
 
+{
+	"brand": "ImmersionRC",
+	"model": "Raceband 25mw",
+	"wattage": "25",
+	"channels": "15",
+	"bands": "FR"
+}
+
+{
+	"brand": "ImmersionRC",
+	"model": "Standard 600mw",
+	"wattage": "600",
+	"channels": "7",
+	"bands": "F"
+}
+
+{
+	"brand": "ImmersionRC",
+	"model": "Standard 25mw",
+	"wattage": "25",
+	"channels": "7",
+	"bands": "F"
+}
+
+{
+	"brand": "RMRC",
+	"model": "Cricket 600mw",
+	"wattage": "600",
+	"channels": "40",
+	"bands": "FEABR"
+}
+
+{
+	"brand": "RMRC",
+	"model": "Cricket 200mw",
+	"wattage": "200",
+	"channels": "40",
+	"bands": "FEABR"
+}
+
+{
+	"brand": "RMRC",
+	"model": "Cricket 25mw",
+	"wattage": "25",
+	"channels": "40",
+	"bands": "FEABR"
+}
+
+{
+	"brand": "AltitudeRC",
+	"model": "Nano 25mw",
+	"wattage": "25",
+	"channels": "7",
+	"bands": "F"
+}
+
+{
+	"brand": "Skyzone",
+	"model": "TS350 10mw",
+	"wattage": "10",
+	"channels": "8",
+	"bands": "A"
+}
+
+{
+	"brand": "Skyzone",
+	"model": "TS351 200mw",
+	"wattage": "200",
+	"channels": "8",
+	"bands": "A"
+}
+
+{
+	"brand": "Skyzone",
+	"model": "TS352 500mw",
+	"wattage": "500",
+	"channels": "8",
+	"bands": "A"
+}
+
+{
+	"brand": "Skyzone",
+	"model": "TS353 400mw",
+	"wattage": "400",
+	"channels": "8",
+	"bands": "A"
+}
+
+{
+	"brand": "Skyzone",
+	"model": "TS5823 200mw",
+	"wattage": "200",
+	"channels": "32",
+	"bands": "FEAB"
+}
+
+{
+	"brand": "Skyzone",
+	"model": "TS58500 500mw",
+	"wattage": "500",
+	"channels": "32",
+	"bands": "FEAB"
+}
+
+{
+	"brand": "Skyzone",
+	"model": "TS5832 600mw",
+	"wattage": "600",
+	"channels": "32",
+	"bands": "FEAB"
+}
+
+{
+	"brand": "Boscam",
+	"model": "BOS350 350mw",
+	"wattage": "350",
+	"channels": "32",
+	"bands": "FEAB"
+}
+
+{
+	"brand": "Boscam",
+	"model": "BOS600 600mw",
+	"wattage": "600",
+	"channels": "32",
+	"bands": "FEAB"
+}
+
+{
+	"brand": "GoPro",
+	"model": "250mw",
+	"wattage": "250",
+	"channels": "32",
+	"bands": "FEAB"
+}
+
+{
+	"brand": "OTHER",
+	"model": "Micro 200mw",
+	"wattage": "200",
+	"channels": "8",
+	"bands": "E"
+}
+
+{
+	"brand": "OTHER",
+	"model": "FX796T 600mw",
+	"wattage": "600",
+	"channels": "40",
+	"bands": "FEABR"
+}
+
+{
+	"brand": "OTHER",
+	"model": "FT953 400mw",
+	"wattage": "400",
+	"channels": "32",
+	"bands": "FEAB"
+}
+
+{
+	"brand": "OTHER",
+	"model": "FX796T 200mw",
+	"wattage": "200",
+	"channels": "40",
+	"bands": "FEABR"
+}
+
+{
+	"brand": "OTHER",
+	"model": "Generic E_band 200mw",
+	"wattage": "200",
+	"channels": "8",
+	"bands": "E"
+}
+
+{
+	"brand": "OTHER",
+	"model": "Generic E_band 400mw",
+	"wattage": "400",
+	"channels": "8",
+	"bands": "E"
+}
+
+{
+	"brand": "OTHER",
+	"model": "Generic E_band 600mw",
+	"wattage": "600",
+	"channels": "8",
+	"bands": "E"
+}
+
+{
+	"brand": "UBAD",
+	"model": "200mw Race Edition",
+	"wattage": "200",
+	"channels": "32",
+	"bands": "FEAR"
+}
+
+{
+	"brand": "UBAD",
+	"model": "600mw Beast Edition",
+	"wattage": "600",
+	"channels": "32",
+	"bands": "FEAB"
+}
+
+{
+	"brand": "Hawkeye",
+	"model": "Mini 200mw",
+	"wattage": "200",
+	"channels": "32",
+	"bands": "FEAR"
+}
+
+{
+	"brand": "Hawkeye",
+	"model": "Mini 600mw",
+	"wattage": "600",
+	"channels": "32",
+	"bands": "FEAB"
+}
+
+{
+	"brand": "Hawkeye",
+	"model": "Q 600mw",
+	"wattage": "600",
+	"channels": "32",
+	"bands": "FEAB"
+}
+
+{
+	"brand": "Skyzone",
+	"model": "T600 600mw",
+	"wattage": "600",
+	"channels": "32",
+	"bands": "FEAR"
+}
+
+{
+	"brand": "Sky",
+	"model": "S60 600mw",
+	"wattage": "600",
+	"channels": "32",
+	"bands": "FEAB"
+}
+
+{
+	"brand": "Tarot",
+	"model": "TL300N 600mw",
+	"wattage": "600",
+	"channels": "32",
+	"bands": "FEAB"
+}
+
+{
+	"brand": "DJI",
+	"model": "AVL58 500mw",
+	"wattage": "500",
+	"channels": "8",
+	"bands": "E"
+}
+
+{
+	"brand": "HiModel",
+	"model": "TX5502 400mw",
+	"wattage": "400",
+	"channels": "32",
+	"bands": "FEAB"
+}
+
+{
+	"brand": "GT Power",
+	"model": "250mw",
+	"wattage": "250",
+	"channels": "8",
+	"bands": "E"
+}
+
+{
+	"brand": "Aomway",
+	"model": "Mini 200mw",
+	"wattage": "200",
+	"channels": "32",
+	"bands": "FEAB"
+}
+
+{
+	"brand": "Aomway",
+	"model": "500mw",
+	"wattage": "200",
+	"channels": "15",
+	"bands": "FE"
+}
+
+{
+	"brand": "Aomway",
+	"model": "Mini 600mw",
+	"wattage": "600",
+	"channels": "32",
+	"bands": "FEAB"
+}
+
+{
+	"brand": "Aomway",
+	"model": "1000mw",
+	"wattage": "1000",
+	"channels": "15",
+	"bands": "FE"
+}
+
+{
+	"brand": "DALRC",
+	"model": "600mw",
+	"wattage": "600",
+	"channels": "32",
+	"bands": "FEAB"
+}
+
+{
+	"brand": "HiEE",
+	"model": "TSD3203 300mw",
+	"wattage": "300",
+	"channels": "32",
+	"bands": "FEAB"
+}
+
+{
+	"brand": "HiEE",
+	"model": "TSD3208 800mw",
+	"wattage": "800",
+	"channels": "32",
+	"bands": "FEAB"
+}
+
+{
+	"brand": "TUZ",
+	"model": "M600T 600mw",
+	"wattage": "600",
+	"channels": "32",
+	"bands": "FEAB"
+}
+
+{
+	"brand": "SuperLight",
+	"model": "FVM200 200mw",
+	"wattage": "200",
+	"channels": "8",
+	"bands": "E"
+}
+
+{
+	"brand": "Turnigy",
+	"model": "VTX250 250mw",
+	"wattage": "250",
+	"channels": "8",
+	"bands": "E"
+}
+
+{
+	"brand": "HobbyKing",
+	"model": "FT952 200mw",
+	"wattage": "200",
+	"channels": "32",
+	"bands": "FEAB"
+}
+
+{
+	"brand": "HobbyKing",
+	"model": "LT200 200mw",
+	"wattage": "200",
+	"channels": "32",
+	"bands": "FEAB"
+}
+
+{
+	"brand": "Quanum",
+	"model": "Q58-6-V 600mw",
+	"wattage": "600",
+	"channels": "32",
+	"bands": "FEAB"
+}
+
+{
+	"brand": "HobbyKing",
+	"model": "LT200 200mw",
+	"wattage": "200",
+	"channels": "32",
+	"bands": "FEABR"
+}
+
+{
+	"brand": "HobbyKing",
+	"model": "LT650 600mw",
+	"wattage": "600",
+	"channels": "32",
+	"bands": "FEAB"
+}
+
+{
+	"brand": "HobbyKing",
+	"model": "FT953 400mw",
+	"wattage": "400",
+	"channels": "32",
+	"bands": "FEAB"
+}
+
+{
+	"brand": "HobbyKing",
+	"model": "Mi600s 600mw",
+	"wattage": "600",
+	"channels": "32",
+	"bands": "FEAB"
+}
