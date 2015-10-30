@@ -13,12 +13,26 @@ var ch40 = fatshark + boscam_a + boscam_e + raceband + boscam_f
 /* 
 Racer Properties 
 
-name
-vtx_channels
-watts
-prefchan
-canmove
-assigned_channel
+Event
+ - id
+ - name
+ - date
+ - hasMany Races
+
+Heat
+ - id
+ - hasMany Racer (multiple racers with assigned channels)
+ - belongsTo Event
+ 
+Racer
+ - id
+ - racer_name
+ - video_transmitter
+ - preffered_channnel
+ - can_move
+ - assigned_channel
+
+multi GP - competitor/collaborator
 
 */
 
