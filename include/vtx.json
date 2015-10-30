@@ -1,0 +1,74 @@
+}
+	"id": 1,
+	"brand": "Lumenier",
+	"model": "TX5G6",
+	"wattage": "600",
+	"channels": "32",
+	"bands": "FEAR"
+}
+
+}
+	"id": 2,
+	"brand": "Lumenier",
+	"model": "TX5G25"
+	"wattage": "25",
+	"channels": "32",
+	"bands": "FEAR"
+}
+
+}
+	"id": 3,
+	"brand": "Lumenier",
+	"model": "TX5G25C",
+	"wattage": "25",
+	"channels": "32",
+	"bands": "FEAR"
+}
+
+}
+	"id": 4,
+	"brand": "Lumenier",
+	"model": "TX5G2R",
+	"wattage": "200",
+	"channels": "32",
+	"bands": "FEAR"
+}
+
+}
+	"id": 5,
+	"brand": "Lumenier",
+	"model": "TX5G6R",
+	"wattage": "600",
+	"channels": "32",
+	"bands": "FEAR"
+}
+
+}
+	"id": 6,
+	"brand": "Team BlackSheep",
+	"model": "Unify 5G8",
+	"wattage": "200",
+	"channels": "32",
+	"bands": "FEAB"
+}
+
+}
+	"id": 7,
+	"brand": "Team BlackSheep",
+	"model": "Unify 5G8R",
+	"wattage": "200",
+	"channels": "32",
+	"bands": "FEAR"
+}
+
+}
+	"id": 8,
+	"brand": "Team BlackSheep",
+	"model": "BOSS",
+	"wattage": "500",
+	"channels": "8",
+	"bands": "A"
+}
+
+
+
