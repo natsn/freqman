@@ -13,23 +13,24 @@ A frequency management app for drone racers written in JS.
 _note: this is in flux_
 
 ### Event
- - id
- - name
- - date
+ - id (number)
+ - name (string)
+ - date (date)
  - `hasMany` Races
 
 ### Race
- - id
+ - id (number)
+ - position (number)
  - `hasMany` Racer (multiple racers with assigned channels)
  - `belongsTo` Event
  
 ### Racer
- - id
- - racer_name
- - video_transmitter
- - preferred_channel
- - can_move
- - assigned_channel
+ - id (number)
+ - racer_name (string)
+ - video_transmitter (object)
+ - preferred_channel (number)
+ - can_move (boolean)
+ - the_assigned_channel (number)
 
 
 
