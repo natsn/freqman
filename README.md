@@ -10,7 +10,7 @@ A frequency management app for drone racers written in JS.
 
 # Schema
 
-__note: this is in flux__
+_note: this is in flux_
 
 ### Event
  - id
